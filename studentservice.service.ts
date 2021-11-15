@@ -5,11 +5,11 @@ import { Injectable } from '@angular/core';
 })
 export class StudentserviceService {
   students=[
-            {"Name":"Motamarri Gagan Chandra","Registration":"201900313","Department":"CSE","Semester":5},
-            {"Name":"Rajesh","Registration":"202000110","Department":"ECE","Semester":3},
-            {"Name":"Sathvika","Registration":"201800199","Department":"ME","Semester":7},
-            {"Name":"Vishnu","Registration":"201900300","Department":"CSE","Semester":5},
-            {"Name":"Harshini","Registration":"202000001","Department":"CE","Semester":1}
+            {"Name":"Chaitanya","Registration":"201900314","Department":"CSE","Semester":5},
+            {"Name":"Mahesh","Registration":"201900632","Department":"EEE","Semester":3},
+            {"Name":"Rohit","Registration":"201900362","Department":"MECH","Semester":7},
+            {"Name":"Anudeep","Registration":"201900637","Department":"IT","Semester":5},
+            {"Name":"Dhileep","Registration":"201900351","Department":"CIVIL","Semester":1}
           ]
   getdetails()
   {
